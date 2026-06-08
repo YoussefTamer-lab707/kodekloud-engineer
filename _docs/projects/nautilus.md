@@ -53,3 +53,4 @@ The Nautilus is a three-tier application and is deployed in the Stratos Datacent
 | Mail Server                | Dynamic  | stmail01     | groot    | Gr00T123     | Manages email services for Nautilus Servers |
 | Jump Host Server           | Dynamic  | jump-host    | thor     | mjolnir123   | Provides secure access to Stork DC |
 | Jenkins Server             | Dynamic  | jenkins      | jenkins  | j@rv!s       | Runs Jenkins for CI/CD pipeline  |
+  App server 1                                              Rose 
