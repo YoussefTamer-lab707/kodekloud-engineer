@@ -13,6 +13,8 @@
       children:
         - title: Nautilus
           url: "docs/projects/nautilus"
+    - title: "Python OOP Problems"
+      url: "docs/python-oop-problems"
     - title: "About"
       url: "about"
     - title: "News"
